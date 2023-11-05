@@ -25,7 +25,7 @@ The project is a MERN app to allow the user to search for new books to read, and
 
 The app has been deployed on Heroku.
 
-Live URL : 
+[https://agile-coast-50159-344a0acdcea4.herokuapp.com/](Deployed URL)
 
 ## License
 
